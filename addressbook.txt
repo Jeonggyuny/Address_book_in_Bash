@@ -1,0 +1,6 @@
+Lee:+821:LeeA@naver.com
+John:+11:John@gmail.com
+Lee:+822:LeeB@nate.com
+Han:+823:Han@naver.com
+Jane:+12:Jane@yahoo.com
+Rhee:+824:Rhee@daum.net
